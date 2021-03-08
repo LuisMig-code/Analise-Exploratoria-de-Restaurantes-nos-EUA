@@ -5,3 +5,7 @@
 
 ## EN
 <p>In this project, an exploratory analysis and graphic analyzes were made about various restaurant data in the United States of America in the years 2019 and 2020. With this project we can better see how many businesses actually performed in the CoronaVirus pandemic and its effects, analyzing which businesses grew and which did not.</p>
+
+
+
+<img src="https://images.pexels.com/photos/1267321/pexels-photo-1267321.jpeg?cs=srgb&dl=pexels-elevate-1267321.jpg&fm=jpg">
