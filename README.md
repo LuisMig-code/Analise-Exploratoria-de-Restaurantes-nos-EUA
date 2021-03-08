@@ -8,4 +8,4 @@
 
 
 
-<img src="https://images.pexels.com/photos/1267321/pexels-photo-1267321.jpeg?cs=srgb&dl=pexels-elevate-1267321.jpg&fm=jpg">
+<img src="https://images.pexels.com/photos/1267321/pexels-photo-1267321.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260">
